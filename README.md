@@ -1,4 +1,4 @@
-# Hi there, I'm Gil Naldoza 👋
+# Hi there, I'm Gil👋
 
 Welcome to my GitHub profile! I'm a passionate developer and open-source enthusiast.
 
