@@ -1,4 +1,4 @@
-# Hi there, I'm Gil👋
+# Hi there, I'm Gilly👋
 
 Welcome to my GitHub profile! I'm a passionate developer and open-source enthusiast.
 
